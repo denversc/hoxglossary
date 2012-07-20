@@ -1,0 +1,51 @@
+Ever wonder what a [I]Rosie[/I] is?  Ever wonder if someone is slaying a [I]snapdragon[/I]?  Ever wonder why someone would want to [I]desense[/I] a ROM?  If you're like me, your first few weeks parusing the forums for your shiny new HTC One X was frought with strange words and terms that make you wonder if they're talking about an Android device or a Disney movie.  But even after those first few weeks, you finally feel comfortable with the vernacular, and wouldn't you know it but a new word comes up!
+
+The purpose of this thread is to capture the definitions of words and terms that come up frequently in discussions of ROMs and MODs specifically for the HTC One X/XL.  General terms like "RUU" and "TWRC" will not normally be defined here, unless there is something specific or innate to the HTC One XL.  The idea is that when questions about these terms come up in discussions that one need only reply with a link to this thread.  Please reply to this thread to suggest terms for inclusion or point out corrections and omissions in the definitions themselves.  However, please do [I]not[/I] use this thread to [I]ask[/I] questions... start a new thread in the Q&A forum for that, optionally linking back to this thread.
+
+[SIZE="4"][B]3-Button Mod[/B][/SIZE] See "Button Remap"
+
+[SIZE="4"][B]Advanced Power Menu[/B][/SIZE] A mod that adds additional options to the menu that displays by pressing-and-holding the power key.  Additional options include "Screenshot" and "Recovery" (in the menu that displays after selecting "Reboot").
+
+[SIZE="4"][B]APM[/B][/SIZE] Acronym for "Advanced Power Menu"
+
+[SIZE="4"][B]Aroma Installer[/B][/SIZE] A ROM installer that runs on an Android device from Recovery.  The installer provides an improved user experience by presenting install-time options to the user in a friendly, touch-based UI.  Custom ROMs can use Aroma to allow the user to select customizations like using the AOSP keyboard, installing certain user-space applications, and overlocking the CPU.  See http://www.xda-developers.com/android/touch-and-customizable-rom-installer-aroma
+
+[SIZE="4"][B]Button Remap[/B][/SIZE] Refers to re-assigning the functions of the 3 capacitive LED keys on the bottom of the device.  Stock HTC has Back, Home, and Recent Tasks keys.  Many custom ROMs re-assign the keys so that pressing-and-hold the Back key will [I]kill[/I] the application, pressing the Recent Tasks key will actually bring up the menu, and pressing-and-holding the Home key will bring up the Recent Tasks.
+
+[SIZE="4"][B]ClockWorkMod[/B][/SIZE] Often abbreviated "CWM", a custom recovery that can be installed on the HTC One XL.  Although hotly debated, it tends to be less favoured than its main competitor, TeamWin Recovery Project (TWRP), for the HTC One XL because CWM was "not ported correctly".  See http://forum.xda-developers.com/wiki/ClockworkMod_Recovery for general information about CWM.
+
+[SIZE="4"][B]CWM[/B][/SIZE] Acronym for "ClockWorkMod"
+
+[SIZE="4"][B]Endeavoru[/B][/SIZE] Code name for the "International" variant of the HTC One X, that uses the nVidia Tegra3 SoC.  Antonym: Evita.
+
+[SIZE="4"][B]Evita[/B][/SIZE] Code name for the "North American" variant of the HTC One X, that uses the Snapdragon S4 SoC, often referred to as the "XL" (instead of just the "X").  Carriers such as AT&T and Verizon (United States), Rogers (Canada), and Telstra (Australia) use this variant, while the rest of the world uses the Endeavoru. Antonym: Endeavoru.
+
+[SIZE="4"][B]FC[/B][/SIZE] Acronym for "Force Close". This refers to the dialog that displays when and application crashes and is killed by the Android OS.  Often it is used as a verb (eg. "The phone FC'd on me").
+
+[SIZE="4"][B]GSM Patch[/B][/SIZE] A mod that fixes a common radio issue with HTC One X custom ROMs (please post if you have a link and/or more details)
+
+[SIZE="4"][B]Hot Reboot[/B][/SIZE] An option available in the Advanced Power Menu (I'm not sure what the differnce is between a "normal" reboot; please post if you know and/or have a link)
+
+[SIZE="4"][B]HOX[/B][/SIZE] Acronym for "HTC One X"
+
+[SIZE="4"][B]HQ Camera[/B][/SIZE] A modified version of the stock HTC Camera application that captures higher-quality images and videos.  This is done by reducing the amount of compression applied to the captured media.  The file sizes of images and videos are larger when captured with the HQ Camera but are of higher quality.  The HQ Camera APK [I]replaces[/I] the stock camera's APK in the /system folder; the HQ and non-HQ camera cannot coexist.
+
+[SIZE="4"][B]Nandroid[/B][/SIZE] Informal term referring to a complete backup of a device (typically captured while booted into recovery) that allows restoring the device to that exact state at a later point in time, especially if flashing a ROM fails.
+
+[SIZE="4"][B]Recovery[/B][/SIZE] Recovery is in many ways an alternate operating system for Android phones that allows performing low-level operations outside of the Android OS, such as installing ROMs, backing up files, and wiping filesystems.  To enter Recovery on the HTC One XL, reboot your phone and hold the volume down key; then select "Recovery" from the
+
+[SIZE="4"][B]Rosie[/B][/SIZE] The internal codename used by HTC for the Sense launcher application.  This term tends to be used frequently when discussing the HTC launcher and app drawer.
+
+[SIZE="4"][B]S4[/B][/SIZE] See "Snapdragon"
+
+[SIZE="4"][B]Sense[/B][/SIZE] The UI customizations of stock Android done by HTC and shipped in the stock images of HTC devices.  This includes the launcher, calendar, app drawer, several widgets, and a framework that can be leveraged by third-party applications.
+
+[SIZE="4"][B]Snapdragon[/B][/SIZE] "A family of mobile system on chips (SoC) by Qualcomm. Qualcomm considers Snapdragon a "platform" for use in smartphones, tablets, and smartbook devices."  This is the SoC used in the North American (a.k.a. "evita") variant of the HTC One X. This is in contrast to the Tegra3, which is used on the International variant. See http://en.wikipedia.org/wiki/Snapdragon_(system_on_chip))
+
+[SIZE="4"][B]TeamWin Recovery Project[/B][/SIZE] Often abbreviated "TWRP", a custom recovery that can be installed on the HTC One XL.  Although hotly debated, it tends to be reported to be more stable than its main competitor, ClockWorkMod (CWM) for the HTC One XL because CWM was "not ported correctly".
+
+[SIZE="4"][B]Tegra3[/B][/SIZE] "A system on a chip (SoC) series developed by Nvidia for mobile devices such as smartphones, personal digital assistants, and mobile Internet devices."  This is the SoC used in the International (a.k.a. "endeavoru") variant of the HTC One X. This is in contrast to the Snapdragon, which is used on the North American variant. See http://en.wikipedia.org/wiki/Tegra3#Tegra_3
+
+[SIZE="4"][B]TWRP[/B][/SIZE] Acronym for "TeamWin Recovery Project"
+
+[SIZE="4"][B]XL[/B][/SIZE] Informal name to refer to the North American variant of the HTC One X.
